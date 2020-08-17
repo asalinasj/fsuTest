@@ -1,0 +1,9 @@
+.game-wrapper {
+    padding: 50px;
+    background-color: #fafafa;
+}
+
+.game-wrapper h2 {
+    font-family: 'Russo One', sans-serif;
+    text-shadow: 2px 2px white;
+}

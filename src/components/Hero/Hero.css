@@ -1,0 +1,42 @@
+.hero-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.customCard {
+    width: 45ch;
+    height: 45ch;
+    background: grey;
+    border-radius: 5px;
+    background-image: url(https://alumni.fsu.edu/sites/alumni.fsu.edu/files/images/Community/Clubs/Image_Gallery/FSU%20Seal.png);
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.5s;
+    will-change: transform;
+    border: 15px solid white;
+  }
+  
+  .customCard:hover {
+    box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+  }
+
+  .customCard1 {
+    width: 45ch;
+    height: 45ch;
+    background: grey;
+    border-radius: 5px;
+    background-image: url(https://i1.wp.com/www.cis.fiu.edu/wp-content/uploads/2016/07/scislogo-1.jpg?fit=797%2C797&ssl=1);
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.5s;
+    will-change: transform;
+    border: 15px solid white;
+  }
+  
+  .customCard1:hover {
+    box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+  }
