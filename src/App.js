@@ -9,6 +9,7 @@ import APIComponent from './components/API/APIComponent';
 import CollapsibleComponent from './components/Collapsible/CollapsibleComponent';
 import HeroComponent from './components/Hero/HeroComponent';
 import GameComponent from './components/Game/GameComponent';
+//Simple setup
 
 function App() {
   return (
